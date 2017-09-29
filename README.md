@@ -27,7 +27,7 @@
 | Frenches Yellow Mustard | Buy | |
 | Grapes | Buy | |
 | Fruits / Vegetables | |
-| Donuts | Buy | |
+| Donuts / Donut Holes (powdered) | Buy | |
 | Hard boiled Egg | Christina | |
 | Name badges | Buy / Tyler | |
 | Kazoo | Christina | |
