@@ -14,34 +14,34 @@
 | Ukelele | Tyler |
 | Hammock | Sarah |
 | Face paint | Brittni |
-| Cauliflower | Buy |
-| 2 Jump ropes | Buy |
-| Tomato Juice | Buy |
 | Cloves of garlic | Christina |
-| Frenches Yellow Mustard | Buy |
-| Grapes | Buy |
 | Fruits / Vegetables |
-| Donuts / Donut Holes (powdered) | Buy |
 | Hard boiled Egg | Christina |
-| Name badges | Buy / Tyler |
 | Kazoo | Christina |
-| 12 cans of food | Buy |
-| Flowers | Buy |
-| 5 hour energies / Redbull |
 | Lights | Sean Christina Brittni |
 | Rope | Tyler |
 | Extra Clothes | Sarah / Christina |
-| Smores stuff (extra ingredient like honey) | Buy |
 | Selfie Stick | Brittni |
+| Post Cards | Christina |
+| Beer Stein | Tyer |
+| Milk | Buy |
+| Coffee | Buy |
+| Bubble Gum | Buy |
 | Bleu cheese | Buy |
 | Kite | Buy |
 | Duct Tape | Buy |
-| Post Cards | Christina |
-| Bubble Gum | Tyler |
-| Beer Stein | Tyer |
+| Smores stuff (extra ingredient like honey) | Buy |
+| 12 cans of food | Buy |
+| Flowers | Buy |
+| 5 hour energies / Redbull | Buy |
+| Frenches Yellow Mustard | Buy |
+| Grapes | Buy |
+| Donuts / Donut Holes (powdered) | Buy |
+| Cauliflower | Buy |
+| 2 Jump ropes | Buy |
+| Tomato Juice | Buy |
+| Name badges | Buy / Tyler |
 | MRE (meal ready to eat) | Buy |
-| Milk | Buy |
-| Coffee | Buy |
 
 
 ### Locations
@@ -56,6 +56,6 @@
 * Duet health
 * Hocking Hills (Camp Ground)
 * Topiary Park
-* Hayden Run Ralls
+* Hayden Run Falls
 
 
