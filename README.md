@@ -40,6 +40,8 @@
 | Bubble Gum | Tyler |
 | Beer Stein | Tyer |
 | MRE (meal ready to eat) | Buy |
+| Milk | Buy |
+| Coffee | Buy |
 
 
 ### Locations
